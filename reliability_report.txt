@@ -1,0 +1,10 @@
+
+Reliability Report: ALS vs Hybrid RMSE
+--------------------------------------------------
+          err_als  err_demo  err_cont  err_hybrid
+group                                            
+Cold     0.924342  1.133267  0.993699    0.924491
+Expert   0.837875  1.079708  0.943035    0.837661
+Regular  0.889582  1.107963  0.980529    0.889516
+--------------------------------------------------
+Cold: < 20 ratings | Regular: 20-100 | Expert: > 100

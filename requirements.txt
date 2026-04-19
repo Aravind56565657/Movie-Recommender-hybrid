@@ -1,0 +1,33 @@
+# Core data science
+pandas==2.0.3
+numpy==1.24.3
+scipy==1.11.1
+
+# Machine learning
+scikit-learn==1.3.0
+implicit==0.7.2
+
+# NLP & Text processing
+gensim==4.3.2
+nltk==3.8.1
+wikipedia==1.4.0
+
+# Optimization
+pyswarm==0.6
+
+# Utilities
+requests==2.31.0
+pyyaml==6.0
+tqdm==4.66.1
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Development
+jupyter==1.0.0
+pytest==7.4.0
+black==23.7.0
+
+# Reproducibility
+python-dotenv==1.0.0

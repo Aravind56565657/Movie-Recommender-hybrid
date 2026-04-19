@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.log
+.vscode/
+.idea/
+*.csv
+!data/raw/
+results/
+experiments/
